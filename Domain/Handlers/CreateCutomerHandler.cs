@@ -2,7 +2,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
-using ShopCqrsMediator.Domain.Commands;
+using ShopCqrsMediator.Domain.Commands.Requests;
 using ShopCqrsMediator.Domain.Commands.Responses;
 using ShopCqrsMediator.Domain.Entities;
 using ShopCqrsMediator.Domain.Repositories;

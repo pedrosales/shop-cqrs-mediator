@@ -1,7 +1,6 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using ShopCqrsMediator.Domain.Commands;
-using ShopCqrsMediator.Domain.Handlers;
+using ShopCqrsMediator.Domain.Commands.Requests;
 using ShopCqrsMediator.Domain.Queries.Requests;
 
 namespace ShopCqrsMediator.Controllers
